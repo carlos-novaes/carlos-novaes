@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="https://github.com/carlos-novaes/carlos-novaes/blob/master/programming.png" width="40%" alt="Programming" />
+  <img src="https://github.com/carlos-novaes/carlos-novaes/blob/main/programming.png" width="40%" alt="Programming" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Carlos Novaes</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 <p align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-novaes/)](https://www.linkedin.com/in/carlos-novaes/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosnovaes@poli.ufrj.br)](mailto:carlosnovaes@poli.ufrj.br)
+  <a href="https://linkedin.com/in/carlos-novaes" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="carlos-novaes" />
+  </a>
+  <a href="mailto:carlosnovaes@poli.ufrj.br">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="carlos-novaes" />
+  </a>
 </p>
 <p align="center">
-  ReactJS | React Native | Node.js
+  ReactJS | React Native | Angular | Node.js | .NET
 </p>
 
 - 🔭 I’m currently working at **[Eleva Educação](https://elevaeducacao.com.br/)** building applications using .NET Core and Angular. It's cool.
