@@ -16,7 +16,7 @@
   ReactJS | React Native | Angular | Node.js | .NET
 </p>
 
-- 🔭 I’m currently working at **[Eleva Educação](https://elevaeducacao.com.br/)** building applications using .NET Core and Angular. It's cool.
+- 🔭 I’m currently working at **[americanas s.a](https://www.americanas.com.br/)** building applications using React. It's cool.
 - 💻 I'm currently rediscovering my love for **React and React Native**, so I'm studying these like crazy.
 - 📄 I'm currently reading **THE ART OF UNIT TESTING, by Roy Osherove**, it's simply amazing
 - 🍀 I'm always learning **Clean Code, SOLID and Patterns**.
